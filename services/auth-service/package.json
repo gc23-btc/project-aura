@@ -1,0 +1,10 @@
+{
+  "name": "auth-service",
+  "version": "0.1.0",
+  "description": "Authentication service for Project Aura",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "dependencies": {}
+}
