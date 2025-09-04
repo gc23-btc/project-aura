@@ -1,0 +1,12 @@
+{
+  "name": "notification-service",
+  "version": "1.0.0",
+  "description": "Notification service for Project Aura",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "typescript": "^5.0.0"
+  }
+}
