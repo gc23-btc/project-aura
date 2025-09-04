@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+venv
+
+# build outputs
+dist
+build
+
+# Go binaries
+payment-service
+
+# editor directories
+.idea
+.vscode
